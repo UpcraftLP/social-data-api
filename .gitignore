@@ -1,0 +1,13 @@
+# Rust
+/target
+
+# Env files
+*.env
+
+# Scripts
+*.bat
+*.sh
+
+# Misc
+.tmp/
+*.txt
